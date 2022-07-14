@@ -1,0 +1,29 @@
+{
+  "name": "git-branching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajutamanglama63/git-branching.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajutamanglama63/git-branching/issues"
+  },
+  "homepage": "https://github.com/rajutamanglama63/git-branching#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "process": "^0.11.10"
+  }
+}
